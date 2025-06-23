@@ -10,4 +10,6 @@ This repository contains replicas of various landing pages created using HTML an
 ## Preview
 
 ![Zerodha Landing Page](image.png)
+![web view](screenshots/full.png)
+![mobile view ](screenshots/mobile.png)
 
